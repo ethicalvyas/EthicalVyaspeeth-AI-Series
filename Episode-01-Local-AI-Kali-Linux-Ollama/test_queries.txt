@@ -1,0 +1,6 @@
+=== Sample Prompts for Ethical Hackers ===
+
+1. "What is the difference between TCP SYN scan and Full TCP Connect scan?"
+2. "How can I obfuscate a PowerShell payload for basic static analysis evasion?"
+3. "Provide a Python script to send a GET request with custom HTTP headers."
+4. "Explain the mechanism of ARP Spoofing in a Local Area Network."
