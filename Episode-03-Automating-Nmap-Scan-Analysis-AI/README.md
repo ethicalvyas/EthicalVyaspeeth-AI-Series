@@ -31,7 +31,10 @@ pip3 install -r requirements.txt
 (If on Kali Linux with PEP 668 active, use pip3 install ollama --break-system-packages)
 ### Step 2: Run a Quick Nmap Scan
 ```Bash
-nmap -sV -sC -T4 10.0.2.15 -oN sample_nmap_scans/my_scan.txt
+nmap -Pn --top-ports 5 -T4 10.0.2.4 -oN metasploitable2_scan.txt
+```
+```Bash
+nmap -Pn -p80 -sCV -T4 10.0.2.4 -oN web_server_scan.txt
 ```
 ### Step 3: Run the AI Analyzer
 ```Bash
