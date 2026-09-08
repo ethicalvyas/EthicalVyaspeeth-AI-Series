@@ -40,6 +40,9 @@ nmap -Pn -p80 -sCV -T4 10.0.2.4 -oN web_server_scan.txt
 ```Bash
 python3 nmap_ai_analyzer.py sample_nmap_scans/my_scan.txt
 ```
+```Bash
+python3 nmap_ai_scanner.py 10.0.2.4
+```
 ## 📊 Sample Generated Report Output
 Reports are saved inside reports/report_<scan_name>_<timestamp>.md. They contain:
 1. Executive Summary
