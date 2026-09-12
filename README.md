@@ -13,7 +13,7 @@ Step-by-step tutorials for beginners and intermediate learners.
 
 Real-world use cases bridging AI + Cybersecurity.
 
-# 🔥 What You Will Learn in This Series
+## 🔥 What You Will Learn in This Series
 - **Ep 1:** Setting up Local AI in Kali Linux with Ollama & Llama 3 / DeepSeek
 - **Ep 2:** Building an AI Pentest Assistant using Python & Ollama API
 - **Ep 3:** Automating Nmap Scan Analysis with Local AI
