@@ -1,0 +1,13 @@
+[CALL TRANSCRIPT LOG - VOICE PHISHING INCIDENT]
+Date: 2026-09-12 11:15:00 IST
+Caller Phone: +1 (800) 555-0199 (Spoofed Caller ID)
+Target: Finance Department Desk
+
+Caller (Voice matched to CFO using synthetic audio generator):
+"Hey Rajesh, this is Vikrant calling from the airport. My flight leaves in 10 minutes and my laptop battery died. I need you to bypass the standard secondary approval flow and authorize invoice #8841 right now. Emailing the link to your personal inbox. Do it immediately or we lose the vendor contract."
+
+Target Officer:
+"Sir, policy requires two-factor verification on wire transfers above 5 Lakhs."
+
+Caller (Synthetic Voice Pitch Adjustment):
+"I don't have time for policies right now! Send it to the offshore vendor account immediately and I will sign the retroactive approval on Monday."
