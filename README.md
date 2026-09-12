@@ -4,9 +4,13 @@ This series is designed to help learners, researchers, and professionals explore
 
 🔑 Key Highlights
 AI-powered tools and scripts for cybersecurity learning.
+
 Practical demonstrations integrating Kali Linux, Metasploit, Nmap, Wireshark, and other security frameworks.
+
 Educational resources in Hindi, Gujarati, and English for a wider audience.
+
 Step-by-step tutorials for beginners and intermediate learners.
+
 Real-world use cases bridging AI + Cybersecurity.
 
 # 🔥 What You Will Learn in This Series
