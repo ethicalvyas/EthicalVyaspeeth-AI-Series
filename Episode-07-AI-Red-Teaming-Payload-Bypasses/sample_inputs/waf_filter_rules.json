@@ -1,0 +1,6 @@
+{
+  "target": "Web Application Firewall (WAF)",
+  "blocked_keywords": ["<script>", "alert", "SELECT", "UNION", "exec"],
+  "blocked_characters": [" ", "'", "\""],
+  "objective": "Bypass input filtering using alternative HTML tags, event handlers, and character encoding."
+}
