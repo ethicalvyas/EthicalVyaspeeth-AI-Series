@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # ================================================================= #
-# Script Name : nmap_ai_analyzer.py                                 #
+# Script Name : nmap_ai_scanner.py                                 #
 # Author      : Ethical Vyaspeeth                                    #
 # Series      : AI for Cybersecurity: Zero to Hero (Episode 3)     #
 # Description : Automated Nmap scan parser & AI security analyzer   #
