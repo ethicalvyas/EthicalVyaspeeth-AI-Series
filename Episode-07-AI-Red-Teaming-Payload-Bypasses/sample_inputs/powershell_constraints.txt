@@ -1,0 +1,5 @@
+Target OS: Windows 11 / Server 2022
+Constraints:
+- Avoid plain-text 'Invoke-Expression' or 'IEX'
+- Encode command block in UTF-16LE / Base64 format (-EncodedCommand)
+- Obfuscate variable strings using string concatenation
