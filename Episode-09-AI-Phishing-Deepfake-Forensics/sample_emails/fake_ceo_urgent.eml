@@ -1,0 +1,28 @@
+Received: from mail.evil-attacker-domain.com (198.51.100.42) by mx.company.com with SMTP;
+    Sat, 12 Sep 2026 14:22:10 +0000
+Authentication-Results: mx.company.com;
+    spf=fail (sender IP 198.51.100.42 is not authorized) smtp.mailfrom=attacker@evil-attacker-domain.com;
+    dkim=fail header.i=@company.com;
+    dmarc=fail (p=REJECT) header.from=company.com
+Return-Path: <attacker@evil-attacker-domain.com>
+From: "CEO Office" <executive@company.com>
+To: <finance@company.com>
+Subject: URGENT: Confidential Wire Transfer Required Before 5 PM
+Date: Sat, 12 Sep 2026 14:22:00 +0000
+
+Team,
+
+I am currently in an urgent meeting with investors. We are closing an emergency acquisition.
+Please process an immediate wire transfer of $45,000 to the following account to secure the contract:
+
+Account Name: Strategic Growth LLC
+Routing Number: 121000358
+Account Number: 9876543210
+
+You can confirm the transaction parameters on our secure portal here:
+http://login.company-portal.com.attacker-hosting.ru/login
+
+Do not discuss this via phone as I am unable to take calls right now.
+
+Regards,
+Executive Office
