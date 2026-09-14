@@ -47,11 +47,12 @@ Copy .env.example to .env:
 ```bash
 cp .env.example .env
 ```
-Example .env configuration:
+### Example .env configuration:
 Code snippet
+```
 OLLAMA_HOST=http://localhost:11434
 LLM_API_KEY=VYASPEETH_SECRET_KEY_2026
-
+```
 ### Step 3: Run the Security Lab
 Launch the interactive CLI lab:
 ```bash
